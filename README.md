@@ -1,5 +1,9 @@
 # vuexstore
 
+I have created the component BankDashboard that can be reusable in other components. I'm adding the json file as an import (in a full web development setting, the file will be supply by the Rest API). 
+
+As a user, I can view my transactions and the amount of charge and my remaining money. I can click on each transaction to further view related information.
+
 ## Project setup
 ```
 npm install
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
